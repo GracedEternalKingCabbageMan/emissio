@@ -14,7 +14,7 @@ Sequentia is a Bitcoin sidechain for asset tokenization and decentralized exchan
 |---|---|
 | [`Sequentia`](https://github.com/GracedEternalKingCabbageMan/Sequentia) | The Sequentia node (`elementsd` fork of Elements 23.3.3): consensus, anchoring, proof of stake, open fee market, plus the canonical protocol documentation in `doc/sequentia/`. |
 | [`sequentia-electrs`](https://github.com/GracedEternalKingCabbageMan/sequentia-electrs) | The electrs fork: Rust indexer + Esplora REST API for Sequentia and its Bitcoin testnet4 parent chain. |
-| [`emissio`](https://github.com/GracedEternalKingCabbageMan/emissio) | Emissio: community rewards platform — earn Sequence tokens (SEQ) for testnet contributions. |
+| [`emissio`](https://github.com/GracedEternalKingCabbageMan/emissio) | Emissio: community rewards platform, earning Sequence tokens (SEQ) for testnet contributions. |
 
 Protocol documentation lives in [`Sequentia/doc/sequentia/`](https://github.com/GracedEternalKingCabbageMan/Sequentia/tree/HEAD/doc/sequentia).
 
